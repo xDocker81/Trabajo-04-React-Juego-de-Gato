@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Trabajo-04-React-Juego-de-Gato/precache-manifest.340d74ede8d306e692919552201ebfb1.js"
+  "/Trabajo-04-React-Juego-de-Gato/precache-manifest.47f1cc89af770da4819642b7c68e177f.js"
 );
 
 self.addEventListener('message', (event) => {
