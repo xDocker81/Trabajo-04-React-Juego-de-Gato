@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Trabajo-04-React-Juego-de-Gato/static/css/main.336ec073.chunk.css",
-    "main.js": "/Trabajo-04-React-Juego-de-Gato/static/js/main.db5f2dad.chunk.js",
-    "main.js.map": "/Trabajo-04-React-Juego-de-Gato/static/js/main.db5f2dad.chunk.js.map",
+    "main.js": "/Trabajo-04-React-Juego-de-Gato/static/js/main.c33eccc0.chunk.js",
+    "main.js.map": "/Trabajo-04-React-Juego-de-Gato/static/js/main.c33eccc0.chunk.js.map",
     "runtime~main.js": "/Trabajo-04-React-Juego-de-Gato/static/js/runtime~main.dfadf883.js",
     "runtime~main.js.map": "/Trabajo-04-React-Juego-de-Gato/static/js/runtime~main.dfadf883.js.map",
     "static/js/2.61e06272.chunk.js": "/Trabajo-04-React-Juego-de-Gato/static/js/2.61e06272.chunk.js",
     "static/js/2.61e06272.chunk.js.map": "/Trabajo-04-React-Juego-de-Gato/static/js/2.61e06272.chunk.js.map",
     "index.html": "/Trabajo-04-React-Juego-de-Gato/index.html",
-    "precache-manifest.47f1cc89af770da4819642b7c68e177f.js": "/Trabajo-04-React-Juego-de-Gato/precache-manifest.47f1cc89af770da4819642b7c68e177f.js",
+    "precache-manifest.31fbb763fb82d474675cbffd6d611af1.js": "/Trabajo-04-React-Juego-de-Gato/precache-manifest.31fbb763fb82d474675cbffd6d611af1.js",
     "service-worker.js": "/Trabajo-04-React-Juego-de-Gato/service-worker.js",
     "static/css/main.336ec073.chunk.css.map": "/Trabajo-04-React-Juego-de-Gato/static/css/main.336ec073.chunk.css.map"
   }

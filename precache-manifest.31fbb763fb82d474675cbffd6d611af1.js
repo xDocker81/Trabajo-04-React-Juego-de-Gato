@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a74d56d5bff36e4862f5a7d6faad55c",
+    "revision": "63afc27a389d153e6c53e3e868523e05",
     "url": "/Trabajo-04-React-Juego-de-Gato/index.html"
   },
   {
-    "revision": "23bfaa8065540ba07c2e",
+    "revision": "95577827819b94629f62",
     "url": "/Trabajo-04-React-Juego-de-Gato/static/css/main.336ec073.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Trabajo-04-React-Juego-de-Gato/static/js/2.61e06272.chunk.js"
   },
   {
-    "revision": "23bfaa8065540ba07c2e",
-    "url": "/Trabajo-04-React-Juego-de-Gato/static/js/main.db5f2dad.chunk.js"
+    "revision": "95577827819b94629f62",
+    "url": "/Trabajo-04-React-Juego-de-Gato/static/js/main.c33eccc0.chunk.js"
   },
   {
     "revision": "3976c9b5226a5682bb4a",
